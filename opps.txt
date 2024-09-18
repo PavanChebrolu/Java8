@@ -9,9 +9,13 @@ Encaplusation
 
 Class and Object
 
+<<<<<<< HEAD
 abstation
 
 List
+=======
+Predicate
+>>>>>>> 56b2544991e18e1f5e95a172b4e5abf4d66d9b6c
 
 
 

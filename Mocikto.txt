@@ -1,6 +1,7 @@
 @Mock: This annotation is used to create a mock instance of the PlanRepositiory class. Mockito will automatically 
 create a mock object for this repository, which you can configure to return specific values or behavior.
-@InjectMock
+
+@Qualifier
 
 
 
