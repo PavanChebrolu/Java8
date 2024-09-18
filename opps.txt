@@ -9,6 +9,8 @@ super constructor
 
 Class and Object
 
+Predicate
+
 
 
 
