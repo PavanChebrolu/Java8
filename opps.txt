@@ -1,7 +1,10 @@
 Encaplusation
 
 
-Abstaration
+deletion
+
+
+
 
 
 Class and Object
